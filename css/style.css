@@ -1,0 +1,13 @@
+body{
+    background-image: url(..//img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+.rgba-50{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.text-justify{
+    text-align: justify;
+}
